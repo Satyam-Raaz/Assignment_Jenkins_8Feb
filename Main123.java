@@ -7,7 +7,7 @@ public class Main123 {
 
         float product = first * second;
 
-        System.out.println("The product are: " + product);
+        System.out.println("The product is: " + product);
     }
 
 }
